@@ -42,16 +42,18 @@ Instaláveis diretamente pela Library Manager da IDE Arduino.
 
 
 
-## 👨‍💻 Autor
-
-Projeto desenvolvido por Enrike Rocha Fernandes – estudante de Engenharia de Controle e Automação.  
-Foco em sistemas embarcados, automação prática e domínio completo dos conceitos através da prática manual.
-
 ---
 
 ## 🖼️ Imagem do projeto
 
 ![Radar Ultrassônico com Varredura Automática](./Imagem.jpg)
+
+---
+
+## 👨‍💻 Autor
+
+Projeto desenvolvido por Enrike Rocha Fernandes – estudante de Engenharia de Controle e Automação.  
+Foco em sistemas embarcados, automação prática e domínio completo dos conceitos através da prática manual.
 
 ---
 
