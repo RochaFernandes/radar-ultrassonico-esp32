@@ -29,10 +29,18 @@ Este projeto utiliza um ESP32, um sensor ultrassônico HC-SR04, um servo motor S
 
 ## 📘 Bibliotecas utilizadas
 
+- `ESP32Servo.h`
+- `Wire.h`
 - `Adafruit_SSD1306.h`
 - `Adafruit_GFX.h`
 
 Instaláveis diretamente pela Library Manager da IDE Arduino.
+
+## 🖼️ Montagem do circuito
+
+![Radar Ultrassônico com Varredura Automática](./circuito.jpg)
+
+
 
 ## 👨‍💻 Autor
 
@@ -41,8 +49,9 @@ Foco em sistemas embarcados, automação prática e domínio completo dos concei
 
 ---
 
-📷 **Imagem do Projeto**
-![Radar Ultrassônico com varredura automática](./Imagem.jpg)
+## 🖼️ Imagem do projeto
+
+![Radar Ultrassônico com Varredura Automática](./Imagem.jpg)
 
 ---
 
