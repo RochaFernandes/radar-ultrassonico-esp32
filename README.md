@@ -46,5 +46,4 @@ Foco em sistemas embarcados, automação prática e domínio completo dos concei
 
 ---
 
-📌 Este projeto foi desenvolvido **sem uso de códigos prontos**, com foco em **compreensão total de cada linha**.# radar-ultrassonico-esp32
-Radar ultrassônico com ESP32, servo SG90 e sensor HC-SR04. Varredura automática e exibição OLED em tempo real.
+📌 Este projeto foi desenvolvido **sem uso de códigos prontos**, com foco em **compreensão total de cada linha**.
