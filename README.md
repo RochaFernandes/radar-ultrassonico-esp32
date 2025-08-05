@@ -38,7 +38,7 @@ Instaláveis diretamente pela Library Manager da IDE Arduino.
 
 ## 🖼️ Montagem do circuito
 
-![Radar Ultrassônico com Varredura Automática](./circuito.jpg)
+![Radar Ultrassônico com Varredura Automática](./circuito.PNG)
 
 
 
