@@ -42,7 +42,7 @@ Foco em sistemas embarcados, automação prática e domínio completo dos concei
 ---
 
 📷 **Imagem do Projeto**
-![Estação Climática funcionando](./Imagem.jpg)
+![Radar Ultrassônico com varredura automática](./Imagem.jpg)
 
 ---
 
